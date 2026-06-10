@@ -1,0 +1,1 @@
+# Analise-copa-2026
