@@ -44,7 +44,7 @@ grupos = {
     'Egypt (EGY)': 'Grupo G',        'England (ENG)': 'Grupo L',
     'France (FRA)': 'Grupo I',       'Germany (GER)': 'Grupo E',
     'Ghana (GHA)': 'Grupo L',        'Haiti (HAI)': 'Grupo C',
-    'IR Iran (IRN)': 'Grupo G',      'Iraq (IRQ)': 'Grupo I',
+    'Iran (IRN)': 'Grupo G',      'Iraq (IRQ)': 'Grupo I',
     'Japan (JPN)': 'Grupo F',        'Jordan (JOR)': 'Grupo J',
     'Korea Republic (KOR)': 'Grupo A', 'Mexico (MEX)': 'Grupo A',
     'Morocco (MAR)': 'Grupo C',      'Netherlands (NED)': 'Grupo F',
